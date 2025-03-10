@@ -1,14 +1,8 @@
 import Link from "next/link";
-import { useRouter } from "next/router";
-export default function Navbar() {
-  const router = useRouter();
 
+export default function Navbar() {
   return (
     <>
-      {/* <ul className="sub-menu">
-                <Link className={router.pathname == "/" ? "active" : ""}>Home Default</Link>
-                <Link className={router.pathname == "/index-2" ? "active" : ""}>Home Interior</Link>
-            </ul> */}
       <ul id="myNavbar" className="navbar_nav">
         <li className="menu-item  menu-item-has-children dropdown dropdown_full position-static mega_menu nav-item">
           <Link href="/" className="dropdown-toggle nav-link">

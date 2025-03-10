@@ -17,7 +17,7 @@ export default function Home1() {
   return (
     <>
       <Head>
-        <title>Creote - Corporate & Consulting Business NextJS Template</title>
+        <title>DNA Lions - Accounting Firm</title>
       </Head>
       <Layout headerStyle={1} footerStyle={1}>
         <HeroSlider1 />

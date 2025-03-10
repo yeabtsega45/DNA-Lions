@@ -6,7 +6,7 @@ function BlogSoftware() {
       <div className="pd_bottom_70" />
       {/*===============spacing==============*/}
       {/*style two*/}
-      <section className="blog_post_section one_column style_two">
+      <section className="blog_post_section one_column style_two software-blog">
         <div className="grid_show_case grid_layout clearfix">
           <div className="grid_box _card">
             <div className="news_box default_style list_view has_images">
