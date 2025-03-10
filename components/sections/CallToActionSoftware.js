@@ -1,9 +1,8 @@
 import React from "react";
-import Layout from "@/components/layout/Layout";
 
 function CallToActionSoftware() {
   return (
-    <Layout breadcrumbTitle="Call to Action">
+    <>
       <div className="pd_bottom_70" />
       {/*===============spacing==============*/}
 
@@ -52,7 +51,7 @@ function CallToActionSoftware() {
 
       {/*===============spacing==============*/}
       <div className="pd_bottom_70" />
-    </Layout>
+    </>
   );
 }
 
