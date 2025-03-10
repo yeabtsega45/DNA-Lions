@@ -2,7 +2,6 @@ import React from "react";
 import Layout from "@/components/layout/Layout";
 import Service10 from "@/components/sections/Service10";
 import CallToActionSoftware from "@/components/sections/CallToActionSoftware";
-import BlogSoftware from "@/components/sections/BlogSoftware";
 import TeamSoftware from "@/components/sections/TeamSoftware";
 
 function software() {
@@ -11,7 +10,6 @@ function software() {
       <TeamSoftware />
       <Service10 />
       <CallToActionSoftware />
-      <BlogSoftware />
     </Layout>
   );
 }
