@@ -6,13 +6,11 @@ import BlogSoftware from "@/components/sections/BlogSoftware";
 
 function software() {
   return (
-    <>
-      <Layout headerStyle={1} footerStyle={1}>
-        <Service10 />
-        <CallToActionSoftware />
-        <BlogSoftware />
-      </Layout>
-    </>
+    <Layout headerStyle={1} footerStyle={1}>
+      <Service10 />
+      <CallToActionSoftware />
+      <BlogSoftware />
+    </Layout>
   );
 }
 
