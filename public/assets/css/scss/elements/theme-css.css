@@ -13809,6 +13809,7 @@ header .flaticon-list {
   border: 1px solid var(--border-color-dark);
   border-radius: 5px;
   background: #fff;
+  height: 150px;
 }
 .service_box.style_five .service_content .content_inner span {
   display: block;
