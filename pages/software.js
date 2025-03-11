@@ -6,7 +6,11 @@ import TeamSoftware from "@/components/sections/TeamSoftware";
 
 function software() {
   return (
-    <Layout headerStyle={1} footerStyle={1}>
+    <Layout
+      headerStyle={1}
+      footerStyle={1}
+      breadcrumbTitle="Software Solutions"
+    >
       <TeamSoftware />
       <Service10 />
       <CallToActionSoftware />

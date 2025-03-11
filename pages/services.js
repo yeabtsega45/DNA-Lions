@@ -4,7 +4,7 @@ import BlogSoftware from "@/components/sections/BlogSoftware";
 
 function services() {
   return (
-    <Layout headerStyle={1} footerStyle={1}>
+    <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Services">
       <BlogSoftware />
     </Layout>
   );

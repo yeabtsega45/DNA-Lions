@@ -73,9 +73,12 @@ export default function About3() {
                 {/*===============spacing==============*/}
                 <div className="extra_content image_with_content dark_color">
                   <div className="simple_image">
-                    <img src="/assets/images/flag-of-georgia.png" alt="img" />
+                    <img
+                      src="/assets/images/united-states-flag.png"
+                      alt="img"
+                    />
                     <h2>
-                      Since 2006, <br /> Operating in Atlanta.
+                      Since 2006, <br /> Operating in Georgia, Atlanta.
                     </h2>
                   </div>
                 </div>
@@ -106,7 +109,9 @@ export default function About3() {
                         </div>
                         <div className="txt_content">
                           <h3>
-                            <Link href="#">Tailored Advice &amp; Support</Link>
+                            <Link href="#">
+                              Unwavering Integrity & Accountability
+                            </Link>
                           </h3>
                         </div>
                       </div>
@@ -124,7 +129,7 @@ export default function About3() {
                         </div>
                         <div className="txt_content">
                           <h3>
-                            <Link href="#">Flexible Company Policies</Link>
+                            <Link href="#">Excellence in Service</Link>
                           </h3>
                         </div>
                       </div>

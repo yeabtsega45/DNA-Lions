@@ -22263,13 +22263,13 @@ header .flaticon-list {
   -ms-transition: all 0.5s ease;
 }
 .tabs_all_box.type_one .tabs_header ul li a.active {
-  color: var(--primary-color-one);
+  color: var(--primary-color-one-solid);
 }
 .tabs_all_box.type_one .tabs_header ul li:last-child a {
   border-bottom: 0px;
 }
 .tabs_all_box.type_one .tabs_header ul li:hover a {
-  color: var(--primary-color-one);
+  color: var(--primary-color-one-solid);
   padding-left: 5px;
 }
 .tabs_all_box.type_one .tabs_header .toll_free {
@@ -22296,7 +22296,7 @@ header .flaticon-list {
   display: inline-block;
   line-height: 50px;
   font-size: 20px;
-  color: var(--primary-color-one);
+  color: var(--primary-color-one-solid);
   text-align: center;
   position: absolute;
   left: 0;

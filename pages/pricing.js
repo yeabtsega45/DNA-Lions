@@ -5,7 +5,7 @@ import Contact4 from "@/components/sections/Contact4";
 
 function pricing() {
   return (
-    <Layout headerStyle={1} footerStyle={1}>
+    <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Pricing">
       <Contact3 />
       <Contact4 />
     </Layout>
