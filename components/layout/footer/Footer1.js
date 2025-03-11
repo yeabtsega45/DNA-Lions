@@ -63,21 +63,18 @@ export default function Footer1({}) {
                     <div className="foo_cont_inner">
                       <div className="top">
                         <h6> Location</h6>
-                        <p>
-                          280 Granite Run Drive Suite #200 Lancaster, PA 1760
-                        </p>
+                        <p>2221 Peachtree Rd, Suite X1 Atlanta, GA 30309</p>
                       </div>
                       <div className="bottom">
                         <h6> Contact</h6>
                         <div className="con_content">
                           <h5> Phone :</h5>
-                          <Link href="/tel:+9806071234"> +98 060 712 34</Link>
+                          <Link href="/tel:+18556777713"> 1-855-677-7713</Link>
                         </div>
                         <div className="con_content">
                           <h5> Mail Us :</h5>
-                          <Link href="/tel:sendmail@creote.com">
-                            {" "}
-                            sendmail@creote.com
+                          <Link href="mailto:dna@247a1taxservices.com">
+                            dna@247a1taxservices.com
                           </Link>
                         </div>
                       </div>
