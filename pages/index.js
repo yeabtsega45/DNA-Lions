@@ -24,8 +24,8 @@ export default function Home1() {
         <About11 />
         <Process3 />
         <Service8 />
-        <TestemonialHome />
         <Client6 />
+        <TestemonialHome />
         <FloatingMenu handleFloating={handleFloating} isFloating={isFloating} />
       </Layout>
     </>
