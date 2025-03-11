@@ -210,8 +210,8 @@ export default function Footer1({}) {
                 {/*===============spacing==============*/}
                 <div className="footer_copy_content color_white">
                   © {new Date().getFullYear()}{" "}
-                  <Link href="https://themeforest.net/user/steelthemes">
-                    Steelthemes.
+                  <Link href="https://www.revosolutions.com">
+                    RevoSolutions.
                   </Link>{" "}
                   All Rights Reserved.
                 </div>

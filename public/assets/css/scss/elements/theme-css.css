@@ -21124,6 +21124,7 @@ header .flaticon-list {
 .icon_box_all.style_five .icon_content {
   position: relative;
   padding: 40px 30px 30px;
+  height: 250px;
   background: #fff;
   box-shadow: var(--box-shadow);
   overflow: hidden;
