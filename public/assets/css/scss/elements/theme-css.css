@@ -1338,6 +1338,7 @@
   --primary-color-one-solid: #e5b461;
   --primary-color-two: #0c2731;
   --primary-color-three: #f0f3f9;
+  --primary-color-dark: #9d6e31;
   --color-white: #fff;
   --primary-color-four: #fafcff;
   --primary-color-five: #0c2731;
@@ -17875,7 +17876,7 @@ header .flaticon-list {
   font-size: 22px;
   line-height: 40px;
   font-weight: 700;
-  color: var(--primary-color-one);
+  color: var(--primary-color-dark);
   padding: 0px 0px 10px 0px;
   text-decoration: underline;
   font-family: var(--creote-family-one);
@@ -20677,7 +20678,7 @@ header .flaticon-list {
 .counter-block.style_three .icon_box span {
   font-size: 60px;
   line-height: 60px;
-  color: var(--primary-color-one);
+  color: var(--primary-color-dark);
 }
 .counter-block.style_three .icon_box img {
   width: 60px;
@@ -20697,7 +20698,7 @@ header .flaticon-list {
 .counter-block.style_three .content_box h6 .coun_ter .count-text {
   font-size: 30px;
   line-height: 50px;
-  color: var(--primary-color-one);
+  color: var(--primary-color-dark);
   font-weight: 700;
 }
 .counter-block.style_three .content_box h6 .coun_ter small {
@@ -34821,6 +34822,14 @@ body.side_menu_toggled .style-switcher {
 
 iframe {
   width: 100%;
+}
+
+.client-section {
+  background: var(--primary-color-one);
+}
+
+.lightbox-image {
+  background: #a10000 !important;
 }
 
 /*# sourceMappingURL=theme-css.css.map */
