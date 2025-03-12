@@ -40,7 +40,7 @@ export default function Service8() {
                   <div className="service_content">
                     <div className="image_box">
                       <img
-                        src="/assets/images/service/service-image-1.png"
+                        src="/assets/images/service/Build Business Credit.png"
                         className="img-fluid"
                         alt="Service Image"
                       />
@@ -68,7 +68,7 @@ export default function Service8() {
                   <div className="service_content">
                     <div className="image_box">
                       <img
-                        src="/assets/images/service/service-image-3.png"
+                        src="/assets/images/service/Entity Formation.png"
                         className="img-fluid"
                         alt="Service Image"
                       />
@@ -96,7 +96,7 @@ export default function Service8() {
                   <div className="service_content">
                     <div className="image_box">
                       <img
-                        src="/assets/images/service/service-image-5.jpg"
+                        src="/assets/images/service/Taxes & Bookkeeping.png"
                         className="img-fluid"
                         alt="Service Image"
                       />
@@ -131,7 +131,7 @@ export default function Service8() {
                   <div className="service_content">
                     <div className="image_box">
                       <img
-                        src="/assets/images/service/service-image-1.png"
+                        src="/assets/images/service/Credit Repair.png"
                         className="img-fluid"
                         alt="Service Image"
                       />
@@ -156,7 +156,7 @@ export default function Service8() {
                   <div className="service_content">
                     <div className="image_box">
                       <img
-                        src="/assets/images/service/service-image-3.png"
+                        src="/assets/images/service/Tax Consulting.png"
                         className="img-fluid"
                         alt="Service Image"
                       />
@@ -184,7 +184,7 @@ export default function Service8() {
                   <div className="service_content">
                     <div className="image_box">
                       <img
-                        src="/assets/images/service/service-image-5.jpg"
+                        src="/assets/images/service/Payroll service.png"
                         className="img-fluid"
                         alt="Service Image"
                       />
@@ -193,9 +193,12 @@ export default function Service8() {
                       <span className=" icon-heartbeat" />
                       <div className="text_box">
                         <h2>
-                          <Link href="#">Health Care Benefits</Link>
+                          <Link href="#">Payroll service</Link>
                         </h2>
-                        <p>Workplace conflict can become a consuming process</p>
+                        <p>
+                          Streamlined payroll management for accurate & timely
+                          employee payments.
+                        </p>
                       </div>
                     </div>
                   </div>

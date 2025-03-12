@@ -39,7 +39,7 @@ export default function HeroSlider1() {
               <div
                 className="image-layer"
                 style={{
-                  backgroundImage: "url(/assets/images/sliders/slider-1-1.jpg)",
+                  backgroundImage: "url(/assets/images/sliders/Slide-1.jpg)",
                 }}
               ></div>
               <div className="auto-container">
@@ -77,7 +77,7 @@ export default function HeroSlider1() {
               <div
                 className="image-layer"
                 style={{
-                  backgroundImage: "url(/assets/images/sliders/slider-1-2.jpg)",
+                  backgroundImage: "url(/assets/images/sliders/Slide-2.jpg)",
                 }}
               ></div>
               <div className="auto-container">
@@ -115,7 +115,7 @@ export default function HeroSlider1() {
               <div
                 className="image-layer"
                 style={{
-                  backgroundImage: "url(/assets/images/sliders/slider-1-3.jpg)",
+                  backgroundImage: "url(/assets/images/sliders/Slide-3.jpg)",
                 }}
               ></div>
               <div className="auto-container">

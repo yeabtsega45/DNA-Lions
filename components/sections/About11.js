@@ -14,7 +14,7 @@ export default function About11() {
               <div className="image_box_new type_one clearfix">
                 <div className="image_one">
                   <img
-                    src="/assets/images/about/about-11.jpg"
+                    src="/assets/images/about/524-=-571.png"
                     className="img-fluid height_570px object-fit-cover"
                     alt="img"
                   />
