@@ -12,7 +12,7 @@ function BlogSoftware() {
             <div className="news_box default_style list_view has_images">
               <div className="image img_hover-1">
                 <img
-                  src="../assets/images/cal-to-action.jpg"
+                  src="../assets/images/build business.png"
                   className="img-fluid"
                   alt="img"
                 />
@@ -48,7 +48,7 @@ function BlogSoftware() {
                   <img
                     alt="img"
                     className="img-fluid"
-                    src="assets/images/auth-2.png"
+                    src="assets/images/dna-logo-only.png"
                     height={60}
                     width={60}
                   />
@@ -64,7 +64,7 @@ function BlogSoftware() {
             <div className="news_box default_style list_view has_images">
               <div className="image img_hover-1">
                 <img
-                  src="../assets/images/cal-to-action-2.jpg"
+                  src="../assets/images/entity.png"
                   className="img-fluid"
                   alt="img"
                 />
@@ -99,7 +99,7 @@ function BlogSoftware() {
                   <img
                     alt="img"
                     className="img-fluid"
-                    src="assets/images/auth-1.png"
+                    src="assets/images/dna-logo-only.png"
                     height={60}
                     width={60}
                   />
@@ -117,7 +117,7 @@ function BlogSoftware() {
                 <img
                   width={1920}
                   height={1052}
-                  src="../assets/images/expertise-bg-1.jpg"
+                  src="../assets/images/payroll.png"
                   className="img-fluid"
                   alt="img"
                 />
@@ -152,7 +152,7 @@ function BlogSoftware() {
                   <img
                     alt="img"
                     className="img-fluid"
-                    src="assets/images/auth-2.png"
+                    src="assets/images/dna-logo-only.png"
                     height={60}
                     width={60}
                   />
@@ -168,7 +168,7 @@ function BlogSoftware() {
             <div className="news_box default_style list_view has_images">
               <div className="image img_hover-1">
                 <img
-                  src="../assets/images/cal-to-action.jpg"
+                  src="../assets/images/bookkeeping .png"
                   className="img-fluid"
                   alt="img"
                 />
@@ -203,7 +203,7 @@ function BlogSoftware() {
                   <img
                     alt="img"
                     className="img-fluid"
-                    src="assets/images/auth-2.png"
+                    src="assets/images/dna-logo-only.png"
                     height={60}
                     width={60}
                   />
@@ -219,7 +219,7 @@ function BlogSoftware() {
             <div className="news_box default_style list_view has_images">
               <div className="image img_hover-1">
                 <img
-                  src="../assets/images/cal-to-action-2.jpg"
+                  src="../assets/images/credit .png"
                   className="img-fluid"
                   alt="img"
                 />
@@ -254,7 +254,7 @@ function BlogSoftware() {
                   <img
                     alt="img"
                     className="img-fluid"
-                    src="assets/images/auth-1.png"
+                    src="assets/images/dna-logo-only.png"
                     height={60}
                     width={60}
                   />
@@ -272,7 +272,7 @@ function BlogSoftware() {
                 <img
                   width={1920}
                   height={1052}
-                  src="../assets/images/expertise-bg-1.jpg"
+                  src="../assets/images/tax consulting .png"
                   className="img-fluid"
                   alt="img"
                 />
@@ -309,7 +309,7 @@ function BlogSoftware() {
                   <img
                     alt="img"
                     className="img-fluid"
-                    src="assets/images/auth-2.png"
+                    src="assets/images/dna-logo-only.png"
                     height={60}
                     width={60}
                   />
