@@ -6,7 +6,12 @@ import Tab1 from "@/components/sections/Tab1";
 
 function about() {
   return (
-    <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="About Us">
+    <Layout
+      headerStyle={1}
+      footerStyle={1}
+      breadcrumbTitle="About Us"
+      breadcrumbImage="/assets/images/about us .jpg"
+    >
       <About4 />
       <About3 />
       <Tab1 />

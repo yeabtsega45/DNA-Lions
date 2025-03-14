@@ -5,7 +5,12 @@ import Contact4 from "@/components/sections/Contact4";
 
 function pricing() {
   return (
-    <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Pricing">
+    <Layout
+      headerStyle={1}
+      footerStyle={1}
+      breadcrumbTitle="Pricing"
+      breadcrumbImage="/assets/images/pyment .jpg"
+    >
       <Contact3 />
       <Contact4 />
     </Layout>

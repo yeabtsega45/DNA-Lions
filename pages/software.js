@@ -10,6 +10,7 @@ function software() {
       headerStyle={1}
       footerStyle={1}
       breadcrumbTitle="Software Solutions"
+      breadcrumbImage="/assets/images/software f.jpg"
     >
       <TeamSoftware />
       <Service10 />

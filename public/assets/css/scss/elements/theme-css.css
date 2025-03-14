@@ -1903,7 +1903,7 @@ body.error404 .left-sidebar .content-area {
   left: 0;
   bottom: 0;
   background: var(--primary-color-two);
-  opacity: 0.85;
+  opacity: 0.5;
   z-index: 1;
 }
 .page_header_default .parallax_cover {

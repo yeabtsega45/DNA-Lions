@@ -45,6 +45,7 @@ export default function Layout({
   headerStyle,
   footerStyle,
   breadcrumbTitle,
+  breadcrumbImage,
   children,
   blogMetaSingle,
 }) {
@@ -219,6 +220,7 @@ export default function Layout({
             <Breadcrumb
               breadcrumbTitle={breadcrumbTitle}
               blogMetaSingle={blogMetaSingle}
+              breadcrumbImage={breadcrumbImage}
             />
           )}
           <div id="content" className="site-content">
