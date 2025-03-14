@@ -21727,7 +21727,7 @@ header .flaticon-list {
   font-size: 18px;
   font-weight: 700;
   line-height: 30px;
-  color: var(--primary-color-one);
+  color: var(--primary-color-dark);
 }
 .progress_bar.style_two .progress_new .ProgressBar,
 .progress_bar.style_two .progress_new .ProgressBar-contentCircle {
@@ -21740,7 +21740,7 @@ header .flaticon-list {
 .progress_bar.style_two .progress_new .ProgressBar-circle,
 .progress_bar.style_two .progress_new .ProgressBar-background {
   fill: none;
-  stroke: var(--primary-color-one);
+  stroke: var(--primary-color-dark);
   stroke-width: 5px;
   stroke-linecap: round;
   stroke-dasharray: 0;
@@ -21769,7 +21769,7 @@ header .flaticon-list {
 .progress_bar.style_two .content_box h2 {
   font-size: 36px;
   font-weight: 700;
-  color: var(--primary-color-one);
+  color: var(--primary-color-dark);
   line-height: 46px;
   margin-bottom: 5px;
   padding-right: unset;

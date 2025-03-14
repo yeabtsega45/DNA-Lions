@@ -11,7 +11,7 @@ function CallToActionSoftware() {
           <div className="call_to_action style_two">
             <div className="image">
               <img
-                src="../assets/images/sliders/slider-1-2.jpg"
+                src="../assets/images/about/pic 2.png"
                 className="img-fluid"
                 alt="image"
               />
@@ -21,13 +21,14 @@ function CallToActionSoftware() {
                 <div className="col-lg-8">
                   <div className="left_content">
                     <div className="main_content">
-                      <h1>Need Some Help?</h1>
+                      <h1>Contact Us</h1>
                       <div className="bottom_content">
                         <div className="call_content">
                           <span className="icon-phone-call1 icon" />
                           <div className="content_bx">
                             <h2>Contact Us Soon</h2>
-                            <p>creote@support.com &amp; 16599349993</p>
+                            <p>dna@247a1taxservices.com</p>
+                            <p>1-855-677-7713</p>
                           </div>
                         </div>
                       </div>
